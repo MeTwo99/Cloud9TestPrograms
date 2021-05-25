@@ -1,0 +1,4 @@
+./.git
+*.class
+*.o
+*.out
